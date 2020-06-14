@@ -28,13 +28,13 @@ Each P2 Project shall have a Project management plan (PMP). The PMP is a living 
 | CEERD-EM-J | PM Proxy | Jessica Coleman  | 601-634-3976 | Jessica.G.Coleman@us.army.mil |
 
 ## 5. References:  
-* <ins>Coastal and Hydraulics Laboratory:</ins> Dr. Charles W. Downer and Dr. Nawa Pradhan
-* <ins>Environmental Laboratory:</ins> Dr. Todd S. Bridges, Dr. Patrick N. Deliman, and Dr. Todd M. Swannack
-* <ins>San Antonio River Authority:</ins> Mr. Steve Graham and Ms. Sheeba Thomas
-* <ins>University of Texas, San Antonio:</ins> Dr. Hatim Sharif
-* <ins>Portland State University:</ins> Dr. Zhonglong Zhang
-* <ins>RESPEC Inc.:</ins> Dr. Russell Persyn and Mr. John Imhoff
-* <ins>LimnoTech Inc:</ins> Dr. Tim Dekker
+* **Coastal and Hydraulics Laboratory:** Dr. Charles W. Downer and Dr. Nawa Pradhan
+* **Environmental Laboratory:** Dr. Todd S. Bridges, Dr. Patrick N. Deliman, and Dr. Todd M. Swannack
+* **San Antonio River Authority:** Mr. Steve Graham and Ms. Sheeba Thomas
+* **University of Texas, San Antonio:** Dr. Hatim Sharif
+* **Portland State University:** Dr. Zhonglong Zhang
+* **RESPEC Inc.:** Dr. Russell Persyn and Mr. John Imhoff
+* **LimnoTech Inc:** Dr. Tim Dekker
 
 ## 6. Background/Problem Description: 
 
