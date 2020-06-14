@@ -124,6 +124,7 @@ In addition to the technical discussions, this meeting will discuss leveraging o
 * **d. Validate the GSSHA/Water Quality and the Terrestrial Plant model using existing field data**. The project team will work with other EL team members to test and validate the linkage between GSSHA-WQ for Terrestrial Vegetation simulations.
 
 ## 9. Scheduling and Milestones: 
+![Schedule](Schedule.png)
 
 #### Detailed Milestone Schedule/Products
 <table> 
