@@ -1,4 +1,4 @@
-#### Revision date June 14, 2020, based on version sent on June 8, 2020 to Brandon Lafferty for review.
+##### Revision date June 14, 2020, based on version sent on June 8, 2020 to Brandon Lafferty for review.
 
  # II. PMP Outline
 
@@ -207,7 +207,7 @@ Ruggiero, P., P. D. Komar, W. G. McDougal, J. J. Marra, and R. Beach (2001). Wav
 
 Santiago-Collazo, F. L., M. V. Bilskie, S. C. Hagen (2019), A comprehensive review of compound inundation models in low-gradient coastal watersheds. *Environmental Modelling & Software*, 119, 166-181. https://doi.org/10.1016/j.envsoft.2019.06.002 <a name="santiago-collazo-et-al-2019"></a>
 
-Schafer, R. B., M. Bundschuh, D. A. Rouch, E. Szocs, P. C. von der Ohe, V. Pettigrove, R. Schulz, D. Nugegoda, B. J. Kefford (2012), Effects of pesticide toxicity, salinity and other environmental variables on selected ecosystem functions in streams and the relevance for ecosystem services, *Science of the Total Environment*, 415(15): 69-78. <a name="schafer-et-al-2012"></a>
+Sch&auml;fer, R. B., M. Bundschuh, D. A. Rouch, E. Sz&ouml;cs, P. C. von der Ohe, V. Pettigrove, R. Schulz, D. Nugegoda, B. J. Kefford (2012), Effects of pesticide toxicity, salinity and other environmental variables on selected ecosystem functions in streams and the relevance for ecosystem services, *Science of the Total Environment*, 415(15): 69-78. <a name="schafer-et-al-2012"></a>
 
 Steinschneider, S., Ray, P., Rahat, S. H., & Kucharski, J. (2019). A weather?regime based stochastic weather generator for climate vulnerability assessments of water systems in the Western United States. *Water Resources Research*, 55, 6923-6945. https://doi.org/10.1029/2018WR024446 <a name="steinschneider-et-al-2019"></a>
 
