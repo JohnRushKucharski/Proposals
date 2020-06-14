@@ -9,8 +9,8 @@ Each P2 Project shall have a Project management plan (PMP). The PMP is a living 
 # II. PMP Outline
 1. Project Title: ENGINEERING WITH NATURE - ENGINEERING DESIGN TOOL
 2. P2 Project #: XXXX
-3. PMP Approver:  Dr. Elizabeth Ferguson
-4. Complete List of PDT Members:  This list should include the customer/sponsor, project manager, responsible branch chief(s), and all appropriate team members.
+3. PMP Approver: Dr. Elizabeth Ferguson
+4. Complete List of PDT Members: This list should include the customer/sponsor, project manager, responsible branch chief(s), and all appropriate team members.
 
 | Organization | Role | Name | Phone | E-Mail |
 |---|---|---|---|---|
@@ -28,13 +28,13 @@ Each P2 Project shall have a Project management plan (PMP). The PMP is a living 
 | CEERD-EM-J | PM Proxy | Jessica Coleman  | 601-634-3976 | Jessica.G.Coleman@us.army.mil |
 
 ## 5. References:  
-* Coastal and Hydraulics Laboratory - Dr. Charles W. Downer and Dr. Nawa Pradhan
-* Environmental Laboratory - Dr. Todd S. Bridges, Dr. Patrick N. Deliman, and Dr. Todd M. Swannack
-* San Antonio River Authority - Mr. Steve Graham and Ms. Sheeba Thomas
-* University of Texas - San Antonio - Dr. Hatim Sharif
-* Portland State University - Dr. Zhonglong Zhang
-* RESPEC Inc. - Dr. Russell Persyn and Mr. John Imhoff
-* LimnoTech Inc - Dr. Tim Dekker
+* **Coastal and Hydraulics Laboratory:** Dr. Charles W. Downer and Dr. Nawa Pradhan
+* **Environmental Laboratory:** Dr. Todd S. Bridges, Dr. Patrick N. Deliman, and Dr. Todd M. Swannack
+* **San Antonio River Authority:** Mr. Steve Graham and Ms. Sheeba Thomas
+* **University of Texas, San Antonio:** Dr. Hatim Sharif
+* **Portland State University:** Dr. Zhonglong Zhang
+* **RESPEC Inc.:** Dr. Russell Persyn and Mr. John Imhoff
+* **LimnoTech Inc:** Dr. Tim Dekker
 
 ## 6. Background/Problem Description: 
 
