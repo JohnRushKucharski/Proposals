@@ -28,13 +28,13 @@ Each P2 Project shall have a Project management plan (PMP). The PMP is a living 
 | CEERD-EM-J | PM Proxy | Jessica Coleman  | 601-634-3976 | Jessica.G.Coleman@us.army.mil |
 
 ## 5. References:  
-* **Coastal and Hydraulics Laboratory:** Dr. Charles W. Downer and Dr. Nawa Pradhan
-* **Environmental Laboratory:** Dr. Todd S. Bridges, Dr. Patrick N. Deliman, and Dr. Todd M. Swannack
-* **San Antonio River Authority:** Mr. Steve Graham and Ms. Sheeba Thomas
-* **University of Texas, San Antonio:** Dr. Hatim Sharif
-* **Portland State University:** Dr. Zhonglong Zhang
-* **RESPEC Inc.:** Dr. Russell Persyn and Mr. John Imhoff
-* **LimnoTech Inc:** Dr. Tim Dekker
+* <ins>Coastal and Hydraulics Laboratory:</ins> Dr. Charles W. Downer and Dr. Nawa Pradhan
+* <ins>Environmental Laboratory:</ins> Dr. Todd S. Bridges, Dr. Patrick N. Deliman, and Dr. Todd M. Swannack
+* <ins>San Antonio River Authority:</ins> Mr. Steve Graham and Ms. Sheeba Thomas
+* <ins>University of Texas, San Antonio:</ins> Dr. Hatim Sharif
+* <ins>Portland State University:</ins> Dr. Zhonglong Zhang
+* <ins>RESPEC Inc.:</ins> Dr. Russell Persyn and Mr. John Imhoff
+* <ins>LimnoTech Inc:</ins> Dr. Tim Dekker
 
 ## 6. Background/Problem Description: 
 
@@ -71,7 +71,7 @@ Major Project Tasks:
 
 ## 8. Technical Approach/Study Plan: 
 
-#### FY20 
+### <ins>FY20:</ins>
 
 ### Task 1 - Kick-Off Project Meeting
 
@@ -91,7 +91,7 @@ In addition to the technical discussions, this meeting will discuss leveraging o
 * **c. Design a data storage system sufficient to store and retrieve the necessary data for GSSHA and the in-stream nutrient model.** In order to facilitate the transfer of large amounts of data between models, GUIs, and Data visualization tools, a data storage system will be designed and built. We will investigate current systems and methods to ensure that we are on the cutting edge of managing large datasets.
 * **d. Initiate development of a GUI for setting up the in-stream nutrient model and visualizing in-stream nutrient model output.** A nutrient GUI will be developed that will allow users to easily setup the in-stream nutrient model, offer help and advice on estimating model parameters, and provide advanced data visualization for input data and model results.
 
-#### FY21
+### <ins>FY21:</ins>
 
 ### Task 4 - Finalize In-Stream Nutrient and Test/Validate the capabilities
 
@@ -107,7 +107,7 @@ In addition to the technical discussions, this meeting will discuss leveraging o
 * **c. Finalize and test the Overland and Sub-surface nutrient models GUI and data visualization tools**. The GUI and Data Visualization tools will be upgraded to include the Overland and Sub-surface nutrient models.
 * **d. Validate the GSSHA and Overland and Sub-surface models using existing field data**. In conjunction with our project partners and collaborators, existing field data will be identified for model validation. It is anticipated that the San Antonio River Authority will be able to assist with this effort.
 
-#### FY22
+### <ins>FY22:</ins>
 
 ### Task 6 - Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Aquatic Plants
 
@@ -116,7 +116,7 @@ In addition to the technical discussions, this meeting will discuss leveraging o
 * **c. Finalize and test the Aquatic Plant GUI and data visualization tools**. The GUI will be upgraded to include setup and data visualization for the aquatic plant model.
 * **d. Validate the GSSHA-WQ and the Aquatic Plant model using existing field data**. The project team will work with other EL team members to test and validate the linkage between GSSHA-WQ for Aquatic Vegetation simulations.
 
-#### FY23
+### <ins>FY23:</ins>
 
 ### Task 7 - Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plants
 
