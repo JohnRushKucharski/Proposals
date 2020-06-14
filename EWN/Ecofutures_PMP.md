@@ -64,8 +64,8 @@ Major Project Tasks:
 * Finalize and Test Water Temperature capabilities within GSSHA
 * Develop In-Stream WQ Model
 * Design and Develop Overland and Sub-surface WQ Models
-* Develop and implement plan to link GSSHA-WQ with ERDCs multi-species vegetation model - Aquatic Plants
-* Develop and implement plan to link GSSHA-WQ with ERDCs multi-species vegetation model - Terrestrial Plants
+* Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Aquatic Plants
+* Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plants
 
 ## 8. Technical Approach/Study Plan: 
 
@@ -116,9 +116,9 @@ In addition to the technical discussions, this meeting will discuss leveraging o
 
 #### FY23
 
-### Task 7 - Develop and implement plan to link GSSHA-WQ with ERDCs multi-species vegetation model - Terrestrial Plants
+### Task 7 - Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plants
 
-* **a. Determine proper flow, sediment, and water quality information that needs to be stored by GSSHA-WQ and develop and implement plan to link GSSHA-WQ with ERDCs multi-species vegetation model - Terrestrial Plant model**. The project team will work with other EL team members to ensure that the needed GSSHA and Proteus solution files are provided to drive the terrestrial plant dynamics.
+* **a. Determine proper flow, sediment, and water quality information that needs to be stored by GSSHA-WQ and develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plant model**. The project team will work with other EL team members to ensure that the needed GSSHA and Proteus solution files are provided to drive the terrestrial plant dynamics.
 * **b. Finalize and test data storage and retrieval between GSSHA and the Terrestrial Plant model**. The data storage system will be upgraded to store information needed for the terrestrial vegetation model.
 * **c. Finalize and test the Terrestrial Plant GUI and data visualization tools**. The GUI will be upgraded to include setup and data visualization for the terrestrial plant model.
 * **d. Validate the GSSHA/Water Quality and the Terrestrial Plant model using existing field data**. The project team will work with other EL team members to test and validate the linkage between GSSHA-WQ for Terrestrial Vegetation simulations.
@@ -180,28 +180,28 @@ In addition to the technical discussions, this meeting will discuss leveraging o
 <td> Task 5. Design and develop new Overland and Sub-surface Nutrient models - d. Validate the GSSHA and Overland and Sub-surface models using existing field data. </td><td> a. TN - documentation of GSSHA and Overland and Sub-surface nutrient model testing and validation </td><td> 9/30/2021 </td><td> </td><td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 6. Develop and implement plan to link GSSHA-WQ with ERDCs multi-species vegetation model - Aquatic Plants - a. Determine proper flow, sediment, and water quality information that needs to be stored by GSSHA-Water Quality and develop and implement plan to link GSSHA-WQ with ERDCs multi-species vegetation model - Aquatic Plant model. </td><td> a. TN - design plan for linking GSSHA-WQ with ERDC Multi-Species Vegetation Model - Aquatic Vegetation <br> b. Software - Updated GSSHA and Nutrient Models able to provide the needed information to drive the ERDC Multi-Species Vegetation Model - Aquatic Vegetation </td><td> 3/31/2022 </td><td> </td><td>
+<td> Task 6. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Aquatic Plants - a. Determine proper flow, sediment, and water quality information that needs to be stored by GSSHA-Water Quality and develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Aquatic Plant model. </td><td> a. TN - design plan for linking GSSHA-WQ with ERDC Multi-Species Vegetation Model - Aquatic Vegetation <br> b. Software - Updated GSSHA and Nutrient Models able to provide the needed information to drive the ERDC Multi-Species Vegetation Model - Aquatic Vegetation </td><td> 3/31/2022 </td><td> </td><td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 6. Develop and implement plan to link GSSHA-WQ with ERDCs multi-species vegetation model - Aquatic Plants - b. Finalize and test data storage and retrieval between GSSHA and the Aquatic Plant model. </td><td> a. TN - Database design plan for storing the necessary aquatic vegetation data <br> b. Software - Updated database for Aquatic Vegetation </td><td> 6/30/2022 </td><td> </td><td>
+<td> Task 6. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Aquatic Plants - b. Finalize and test data storage and retrieval between GSSHA and the Aquatic Plant model. </td><td> a. TN - Database design plan for storing the necessary aquatic vegetation data <br> b. Software - Updated database for Aquatic Vegetation </td><td> 6/30/2022 </td><td> </td><td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 6. Develop and implement plan to link GSSHA-WQ with ERDCs multi-species vegetation model - Aquatic Plants - c. Finalize and test the Aquatic Plant GUI and data visualization tools. </td><td> a. TN - documentation of the Aquatic Vegetation GUI and data visualization tools <br> b. Software - Graphical User Interface (GUI) </td><td> 9/30/2022 </td><td> </td><td>
+<td> Task 6. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Aquatic Plants - c. Finalize and test the Aquatic Plant GUI and data visualization tools. </td><td> a. TN - documentation of the Aquatic Vegetation GUI and data visualization tools <br> b. Software - Graphical User Interface (GUI) </td><td> 9/30/2022 </td><td> </td><td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 6. Develop and implement plan to link GSSHA-WQ with ERDCs multi-species vegetation model - Aquatic Plants - d. Validate the GSSHA-Water Quality and the Aquatic Plant model using existing field data. </td><td> a. TN - documentation of GSSHA-WQ and Aquatic Vegetation model testing and validation </td><td> 9/30/2022 </td><td> </td><td>
+<td> Task 6. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Aquatic Plants - d. Validate the GSSHA-Water Quality and the Aquatic Plant model using existing field data. </td><td> a. TN - documentation of GSSHA-WQ and Aquatic Vegetation model testing and validation </td><td> 9/30/2022 </td><td> </td><td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 7. Develop and implement plan to link GSSHA-WQ with ERDCs multi-species vegetation model - Terrestrial Plants - a. Determine proper flow, sediment, and water quality information that needs to be stored by GSSHA-Water Quality and develop and implement plan to link GSSHA-WQ with ERDCs multi-species vegetation model - Terrestrial Plant model </td><td> a. TN - design plan for linking GSSHA-WQ with ERDC Multi-Species Vegetation Model - Terrestrial Vegetation <br> b. Software - Updated GSSHA and Nutrient Models able to provide the needed information to drive the ERDC Multi-Species Vegetation Model - Terrestrial Vegetation </td><td> 3/31/2023 </td><td> </td><td>
+<td> Task 7. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plants - a. Determine proper flow, sediment, and water quality information that needs to be stored by GSSHA-Water Quality and develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plant model </td><td> a. TN - design plan for linking GSSHA-WQ with ERDC Multi-Species Vegetation Model - Terrestrial Vegetation <br> b. Software - Updated GSSHA and Nutrient Models able to provide the needed information to drive the ERDC Multi-Species Vegetation Model - Terrestrial Vegetation </td><td> 3/31/2023 </td><td> </td><td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 7. Develop and implement plan to link GSSHA-WQ with ERDCs multi-species vegetation model - Terrestrial Plants - b. Finalize and test data storage and retrieval between GSSHA and the Terrestrial Plant model. </td><td> a. TN - Database design plan for storing the necessary terrestrial vegetation data <br> b. Software - Updated database for Terrestrial Vegetation </td><td> 6/30/2023 </td><td> </td><td>
+<td> Task 7. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plants - b. Finalize and test data storage and retrieval between GSSHA and the Terrestrial Plant model. </td><td> a. TN - Database design plan for storing the necessary terrestrial vegetation data <br> b. Software - Updated database for Terrestrial Vegetation </td><td> 6/30/2023 </td><td> </td><td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 7. Develop and implement plan to link GSSHA-WQ with ERDCs multi-species vegetation model - Terrestrial Plants - c. Finalize and test the Terrestrial Plant GUI and data visualization tools. </td><td> a. TN - documentation of the Terrestrial Vegetation GUI and data visualization tools <br> b. Software - Graphical User Interface (GUI) </td><td> 9/30/2023 </td><td> </td><td>
+<td> Task 7. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plants - c. Finalize and test the Terrestrial Plant GUI and data visualization tools. </td><td> a. TN - documentation of the Terrestrial Vegetation GUI and data visualization tools <br> b. Software - Graphical User Interface (GUI) </td><td> 9/30/2023 </td><td> </td><td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 7. Develop and implement plan to link GSSHA-WQ with ERDCs multi-species vegetation model - Terrestrial Plants - d. Validate the GSSHA-Water Quality and the Terrestrial Plant model using existing field data. </td><td> a. TN - documentation of GSSHA-WQ and Terrestrial Vegetation model testing and validation </td><td> 9/30/2023 </td><td> </td><td>
+<td> Task 7. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plants - d. Validate the GSSHA-Water Quality and the Terrestrial Plant model using existing field data. </td><td> a. TN - documentation of GSSHA-WQ and Terrestrial Vegetation model testing and validation </td><td> 9/30/2023 </td><td> </td><td>
 </tr>
 </body>
 </table>
