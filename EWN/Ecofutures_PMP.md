@@ -1,3 +1,5 @@
+#### Last revision: June 14, 2020, based on May 6, 2020 Word document draft.
+
 Each P2 Project shall have a Project management plan (PMP). The PMP is a living document that will be updated during the project to reflect actual practices. Length and amount of detail should be commensurate with scope and complexity of the project. Most of the required information (below) should already be included in the project proposal. Significant changes in scope, costs, and schedules will be documented through amendment of the PMP after coordination and concurrence of the PDT and PMP Approver.
 
 # I. PMP Approvers
