@@ -19,8 +19,8 @@ Each P2 Project shall have a Project management plan (PMP). The PMP is a living 
 | CEERD-EP-W | Database development and WQ/Vegetation integration | Mr. Kervi Ramos | (530) 601-7335 | Kervi.Ramos@usace.army.mil | kervramos@me.com | New Hire - Expected start date May 2020 |
 | CEERD-EP-W | WQ/Vegetation integration and testing | Dr. Charles W. Downer | (305) 458-8443 | Charles.W.Downer@usace.army.mil |
 | CEERD-EP-W | WQ/Vegetation integration and testing | Dr. Nawa Pradhan | 601-634-3837 | Nawa.Pradhan@usace.army.mil |
-| CEERD-EP-W | | WQ/Vegetation integration and testing | Dr. Zhonglong Zhang | (601) 421-9661 | zz3@pdx.edu |
-| CEERD-EP-W | | Graphical User Interface (GUI) Development and Data Visualization | Ms. Lora Johnson | New Hire | New Hire - Expected start date May 2020 |
+| CEERD-EP-W | WQ/Vegetation integration and testing | Dr. Zhonglong Zhang | (601) 421-9661 | zz3@pdx.edu |
+| CEERD-EP-W | Graphical User Interface (GUI) Development and Data Visualization | Ms. Lora Johnson | New Hire | New Hire - Expected start date May 2020 |
 | CEERD-EE-W | PM Proxy | Todd Swannack | (601) 415-3509 | Todd.M.Swannack@usace.army.mil |
 | CEERD-EE-W | PM Proxy | Christine Vanzomeren | (601) 634-3702 | Christine.M.Vanzomeren@usace.army.mil |
 | CEERD-EM-J | PM Proxy | Jessica Coleman  | 601-634-3976 | Jessica.G.Coleman@us.army.mil |
