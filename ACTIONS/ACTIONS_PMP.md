@@ -1,4 +1,4 @@
-##### Revision date June 14, 2020, based on version sent on June 8, 2020 to Brandon Lafferty for review.
+#### Revision date June 14, 2020, based on version sent on June 8, 2020 to Brandon Lafferty for review.
 
  # II. PMP Outline
 
