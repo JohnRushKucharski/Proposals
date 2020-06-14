@@ -130,7 +130,7 @@ In addition to the technical discussions, this meeting will discuss leveraging o
 <table> 
 <header>
 <tr style=vertical-align:top> 
-<td> Task Description </td><td> Products </td><td> Estimated Completion Date </td><td> Actual Completion Date </th>
+<td vlign="top"> Task Description </td><td> Products </td><td> Estimated Completion Date </td><td> Actual Completion Date </th>
 </tr>
 </header>
 <body>
