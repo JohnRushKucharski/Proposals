@@ -137,73 +137,73 @@ In addition to the technical discussions, this meeting will discuss leveraging o
 </header>
 <body>
 <tr style=vertical-align:top> 
-  <td> Task 1. Kick-Off Project Meeting </td><td> <b>~ Meeting notes</b> that document broad design plan for the overall project </td><td> 5/1/2020 </td> <td> </td>
+<td> Task 1. Kick-Off Project Meeting </td><td> <b>~ Meeting notes</b> that document broad design plan for the overall project </td><td> 5/1/2020 </td> <td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 2. Finish Water Temperature Development and Testing: a. Finalize Overland Water Temperature integration with GSSHA. </td><td> *~ Software*: Updated GSSHA model with water temperature capabilities. </td><td> 7/3/2020 </td><td> </td>
+<td> Task 2. Finish Water Temperature Development and Testing: a. Finalize Overland Water Temperature integration with GSSHA. </td><td> <b>~ Software</b>: Updated GSSHA model with water temperature capabilities. </td><td> 7/3/2020 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 2. Finish Water Temperature Development and Testing: b. Use Goodwin Creek Watershed (Mississippi) to test and validate in-stream and overland water temperature routines. </td><td> *~ TN*: documentation of GSSHA water temperature testing and validation. </td><td> 9/30/2020 </td><td> </td>
+<td> Task 2. Finish Water Temperature Development and Testing: b. Use Goodwin Creek Watershed (Mississippi) to test and validate in-stream and overland water temperature routines. </td><td> <b>~ TN</b>: documentation of GSSHA water temperature testing and validation. </td><td> 9/30/2020 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 3. Initiate the linkage of In-Stream Nutrient kinetics with GSSHA (build upon work done with HEC-RAS-1D): a. Modify existing in-stream nutrient model to run stand-alone. </td><td> *~ Progress report*: document current status of in-stream nutrient model and work that needs to be done to finalize it. <br> *~ Software*: in-stream nutrient model</td><td>9/30/2020</td><td> </td>
+<td> Task 3. Initiate the linkage of In-Stream Nutrient kinetics with GSSHA (build upon work done with HEC-RAS-1D): a. Modify existing in-stream nutrient model to run stand-alone. </td><td> <b>~ Progress report</b>: document current status of in-stream nutrient model and work that needs to be done to finalize it. <br> <b>~ Software</b>: in-stream nutrient model</td><td>9/30/2020</td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 3. Initiate the linkage of In-Stream Nutrient kinetics with GSSHA (build upon work done with HEC-RAS-1D): b. Determine flow and sediment data, and frequency, needed from GSSHA to drive the in-stream nutrient model. </td><td> *~ TN*: documentation of flow and sediment data needed to drive the in-stream nutrient model. </td><td> 7/3/2020 </td><td> </td>
+<td> Task 3. Initiate the linkage of In-Stream Nutrient kinetics with GSSHA (build upon work done with HEC-RAS-1D): b. Determine flow and sediment data, and frequency, needed from GSSHA to drive the in-stream nutrient model. </td><td> <b>~ TN</b>: documentation of flow and sediment data needed to drive the in-stream nutrient model. </td><td> 7/3/2020 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 3. Initiate the linkage of In-Stream Nutrient kinetics with GSSHA (build upon work done with HEC-RAS-1D): c. Design a data storage system sufficient to store and retrieve the necessary data for GSSHA and the in-stream nutrient model. </td><td> *~ TN*: design plan for the data storage system <br> *~ Software*: database </td><td> 8/28/2020 </td><td> </td>
+<td> Task 3. Initiate the linkage of In-Stream Nutrient kinetics with GSSHA (build upon work done with HEC-RAS-1D): c. Design a data storage system sufficient to store and retrieve the necessary data for GSSHA and the in-stream nutrient model. </td><td> <b>~ TN</b>: design plan for the data storage system <br> <b>~ Software</b>: database </td><td> 8/28/2020 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 3. Initiate the linkage of In-Stream Nutrient kinetics with GSSHA (build upon work done with HEC-RAS-1D): d. Initiate development of a GUI for setting up the in-stream nutrient model and visualizing in-stream nutrient model output. </td><td> *~ TN*: describes the GUI and data visualization capabilities for the in-stream nutrient model. <br> *~ Software*: Graphical User Interface (GUI) </td><td> 9/30/2020 </td><td> </td>
+<td> Task 3. Initiate the linkage of In-Stream Nutrient kinetics with GSSHA (build upon work done with HEC-RAS-1D): d. Initiate development of a GUI for setting up the in-stream nutrient model and visualizing in-stream nutrient model output. </td><td> <b>~ TN</b>: describes the GUI and data visualization capabilities for the in-stream nutrient model. <br> <b>~ Software</b>: Graphical User Interface (GUI) </td><td> 9/30/2020 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 4. Finalize In-Stream Nutrient and Test/Validate the capabilities: a. Finalize in-stream nutrient model development. </td><td> *~ TN*: document current in-stream nutrient model capabilities. <br> *~ Software*: in-stream nutrient model </td><td> 12/31/2020 </td><td> </td>
+<td> Task 4. Finalize In-Stream Nutrient and Test/Validate the capabilities: a. Finalize in-stream nutrient model development. </td><td> <b>~ TN</b>: document current in-stream nutrient model capabilities. <br> <b>~ Software</b>: in-stream nutrient model </td><td> 12/31/2020 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 4. Finalize In-Stream Nutrient and Test/Validate the capabilities: b. Finalize and test data storage and retrieval between GSSHA and the in-stream nutrient model. </td><td> *~ Software*: GSSHA with updated output options to write needed flow and sediment information to drive the in-stream nutrient model </td><td> 12/31/2020 </td><td> </td>
+<td> Task 4. Finalize In-Stream Nutrient and Test/Validate the capabilities: b. Finalize and test data storage and retrieval between GSSHA and the in-stream nutrient model. </td><td> <b>~ Software</b>: GSSHA with updated output options to write needed flow and sediment information to drive the in-stream nutrient model </td><td> 12/31/2020 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 4. Finalize In-Stream Nutrient and Test/Validate the capabilities: c. Finalize and test the in-stream nutrient model GUI and data visualization tools. </td><td> *~ Software*: In-stream nutrient model GUI and data visualization tools </td><td> 3/31/2021 </td><td> </td>
+<td> Task 4. Finalize In-Stream Nutrient and Test/Validate the capabilities: c. Finalize and test the in-stream nutrient model GUI and data visualization tools. </td><td> <b>~ Software</b>: In-stream nutrient model GUI and data visualization tools </td><td> 3/31/2021 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 4. Finalize In-Stream Nutrient and Test/Validate the capabilities: d. Validate the GSSHA and in-stream model using existing field data. </td><td> *~ TN*: documentation of GSSHA and in-stream nutrient model testing and validation </td><td> 6/30/2021 </td><td> </td>
+<td> Task 4. Finalize In-Stream Nutrient and Test/Validate the capabilities: d. Validate the GSSHA and in-stream model using existing field data. </td><td> <b>~ TN</b>: documentation of GSSHA and in-stream nutrient model testing and validation </td><td> 6/30/2021 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 5. Design and develop new Overland and Sub-surface Nutrient models: a. Design and develop a new Overland and Sub-surface nutrient model. </td><td> *~ TN*: documentation of Overland and Sub-surface Nutrient model design plan <br> *~ Software*: Overland and Sub-surface Nutrient models </td><td> 7/31/2021 </td><td> </td>
+<td> Task 5. Design and develop new Overland and Sub-surface Nutrient models: a. Design and develop a new Overland and Sub-surface nutrient model. </td><td> <b>~ TN</b>: documentation of Overland and Sub-surface Nutrient model design plan <br> <b>~ Software</b>: Overland and Sub-surface Nutrient models </td><td> 7/31/2021 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 5. Design and develop new Overland and Sub-surface Nutrient models: b. Finalize and test data storage and retrieval between GSSHA and the Overland and Sub-surface nutrient models. </td><td> *~ Software*: GSSHA with updated output options to write needed flow and sediment information to drive the Overland and Sub-surface Nutrient models </td><td> 7/31/2021 </td><td> </td>
+<td> Task 5. Design and develop new Overland and Sub-surface Nutrient models: b. Finalize and test data storage and retrieval between GSSHA and the Overland and Sub-surface nutrient models. </td><td> <b>~ Software</b>: GSSHA with updated output options to write needed flow and sediment information to drive the Overland and Sub-surface Nutrient models </td><td> 7/31/2021 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 5. Design and develop new Overland and Sub-surface Nutrient models: c. Finalize and test the Overland and Sub-surface nutrient models GUI and data visualization tools. </td><td> *~ Software*: Overland and Sub-surface nutrient GUI and data visualization tools </td><td> 9/30/2021 </td><td> </td>
+<td> Task 5. Design and develop new Overland and Sub-surface Nutrient models: c. Finalize and test the Overland and Sub-surface nutrient models GUI and data visualization tools. </td><td> <b>~ Software</b>: Overland and Sub-surface nutrient GUI and data visualization tools </td><td> 9/30/2021 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 5. Design and develop new Overland and Sub-surface Nutrient models: d. Validate the GSSHA and Overland and Sub-surface models using existing field data. </td><td> *~ TN*: documentation of GSSHA and Overland and Sub-surface nutrient model testing and validation </td><td> 9/30/2021 </td><td> </td>
+<td> Task 5. Design and develop new Overland and Sub-surface Nutrient models: d. Validate the GSSHA and Overland and Sub-surface models using existing field data. </td><td> <b>~ TN</b>: documentation of GSSHA and Overland and Sub-surface nutrient model testing and validation </td><td> 9/30/2021 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 6. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Aquatic Plants: a. Determine proper flow, sediment, and water quality information that needs to be stored by GSSHA-Water Quality and develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Aquatic Plant model. </td><td> *~ TN*: design plan for linking GSSHA-WQ with ERDC Multi-Species Vegetation Model - Aquatic Vegetation <br> *~ Software*: Updated GSSHA and Nutrient Models able to provide the needed information to drive the ERDC Multi-Species Vegetation Model: Aquatic Vegetation </td><td> 3/31/2022 </td><td> </td>
+<td> Task 6. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Aquatic Plants: a. Determine proper flow, sediment, and water quality information that needs to be stored by GSSHA-Water Quality and develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Aquatic Plant model. </td><td> <b>~ TN</b>: design plan for linking GSSHA-WQ with ERDC Multi-Species Vegetation Model - Aquatic Vegetation <br> <b>~ Software</b>: Updated GSSHA and Nutrient Models able to provide the needed information to drive the ERDC Multi-Species Vegetation Model: Aquatic Vegetation </td><td> 3/31/2022 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 6. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Aquatic Plants: b. Finalize and test data storage and retrieval between GSSHA and the Aquatic Plant model. </td><td> *~ TN*: Database design plan for storing the necessary aquatic vegetation data <br> *~ Software*: Updated database for Aquatic Vegetation </td><td> 6/30/2022 </td><td> </td>
+<td> Task 6. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Aquatic Plants: b. Finalize and test data storage and retrieval between GSSHA and the Aquatic Plant model. </td><td> <b>~ TN</b>: Database design plan for storing the necessary aquatic vegetation data <br> <b>~ Software</b>: Updated database for Aquatic Vegetation </td><td> 6/30/2022 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 6. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Aquatic Plants: c. Finalize and test the Aquatic Plant GUI and data visualization tools. </td><td> *~ TN*: documentation of the Aquatic Vegetation GUI and data visualization tools <br> *~ Software*: Graphical User Interface (GUI) </td><td> 9/30/2022 </td><td> </td>
+<td> Task 6. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Aquatic Plants: c. Finalize and test the Aquatic Plant GUI and data visualization tools. </td><td> <b>~ TN</b>: documentation of the Aquatic Vegetation GUI and data visualization tools <br> <b>~ Software</b>: Graphical User Interface (GUI) </td><td> 9/30/2022 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 6. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Aquatic Plants: d. Validate the GSSHA-Water Quality and the Aquatic Plant model using existing field data. </td><td> *~ TN*: documentation of GSSHA-WQ and Aquatic Vegetation model testing and validation </td><td> 9/30/2022 </td><td> </td>
+<td> Task 6. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Aquatic Plants: d. Validate the GSSHA-Water Quality and the Aquatic Plant model using existing field data. </td><td> <b>~ TN</b>: documentation of GSSHA-WQ and Aquatic Vegetation model testing and validation </td><td> 9/30/2022 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 7. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plants: a. Determine proper flow, sediment, and water quality information that needs to be stored by GSSHA-Water Quality and develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plant model </td><td> *~ TN*: design plan for linking GSSHA-WQ with ERDC Multi-Species Vegetation Model - Terrestrial Vegetation <br> *~ Software*: Updated GSSHA and Nutrient Models able to provide the needed information to drive the ERDC Multi-Species Vegetation Model - Terrestrial Vegetation </td><td> 3/31/2023 </td><td> </td>
+<td> Task 7. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plants: a. Determine proper flow, sediment, and water quality information that needs to be stored by GSSHA-Water Quality and develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plant model </td><td> <b>~ TN</b>: design plan for linking GSSHA-WQ with ERDC Multi-Species Vegetation Model - Terrestrial Vegetation <br> <b>~ Software</b>: Updated GSSHA and Nutrient Models able to provide the needed information to drive the ERDC Multi-Species Vegetation Model - Terrestrial Vegetation </td><td> 3/31/2023 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 7. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plants: b. Finalize and test data storage and retrieval between GSSHA and the Terrestrial Plant model. </td><td> *~ TN*: Database design plan for storing the necessary terrestrial vegetation data <br> *~ Software*: Updated database for Terrestrial Vegetation </td><td> 6/30/2023 </td><td> </td>
+<td> Task 7. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plants: b. Finalize and test data storage and retrieval between GSSHA and the Terrestrial Plant model. </td><td> <b>~ TN</b>: Database design plan for storing the necessary terrestrial vegetation data <br> <b>~ Software</b>: Updated database for Terrestrial Vegetation </td><td> 6/30/2023 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 7. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plants: c. Finalize and test the Terrestrial Plant GUI and data visualization tools. </td><td> *~ TN*: documentation of the Terrestrial Vegetation GUI and data visualization tools <br> *~ Software*: Graphical User Interface (GUI) </td><td> 9/30/2023 </td><td> </td>
+<td> Task 7. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plants: c. Finalize and test the Terrestrial Plant GUI and data visualization tools. </td><td> <b>~ TN</b>: documentation of the Terrestrial Vegetation GUI and data visualization tools <br> <b>~ Software</b>: Graphical User Interface (GUI) </td><td> 9/30/2023 </td><td> </td>
 </tr>
 <tr style=vertical-align:top> 
-<td> Task 7. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plants: d. Validate the GSSHA-Water Quality and the Terrestrial Plant model using existing field data. </td><td> *~ TN*: documentation of GSSHA-WQ and Terrestrial Vegetation model testing and validation </td><td> 9/30/2023 </td><td> </td>
+<td> Task 7. Develop and implement plan to link GSSHA-WQ with ERDC's multi-species vegetation model - Terrestrial Plants: d. Validate the GSSHA-Water Quality and the Terrestrial Plant model using existing field data. </td><td> <b>~ TN</b>: documentation of GSSHA-WQ and Terrestrial Vegetation model testing and validation </td><td> 9/30/2023 </td><td> </td>
 </tr>
 </body>
 </table>
