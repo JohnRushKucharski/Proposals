@@ -137,7 +137,7 @@ In addition to the technical discussions, this meeting will discuss leveraging o
 </header>
 <body>
 <tr style=vertical-align:top> 
-  <td> Task 1. Kick-Off Project Meeting </td><td> ~ <b>Meeting notes</b> that document broad design plan for the overall project </td><td> 5/1/2020 </td> <td> </td>
+  <td> Task 1. Kick-Off Project Meeting </td><td> <b>~ Meeting notes</b> that document broad design plan for the overall project </td><td> 5/1/2020 </td> <td> </td>
 </tr>
 <tr style=vertical-align:top> 
 <td> Task 2. Finish Water Temperature Development and Testing: a. Finalize Overland Water Temperature integration with GSSHA. </td><td> *~ Software*: Updated GSSHA model with water temperature capabilities. </td><td> 7/3/2020 </td><td> </td>
