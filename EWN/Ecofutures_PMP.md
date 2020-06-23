@@ -222,7 +222,7 @@ In order to keep this project on track, the project team will coordinate with th
 | Resource Item | Amount <br> ($K) |
 | :-- | --: |
 | **OTHFACSVC** <br> Burdens <br> Contracts - Dr. Zhonglong Zhang (PSU) | 16.4 <br> 40.0 |
-| **LABOR** <br> Dr. Todd Steissberg/Dr. Billy Johnson - EL <br> Mr. Kervi Ramos - EL <br> GUI/Data Visualization - Ms. Lora Johnson - EL <br> Dr. Charles Downer - CHL <br> Dr. Nawa Pradhan - CHL | 35.0 <br> 50.0 <br> 50.0 <br> 35.0 <br> 49.0 |
+| **LABOR** <br> Dr. Todd Steissberg/Dr. Billy Johnson - EL <br> Mr. Kervi Ramos - EL <br> GUI/Data Visualization - Ms. Lora Johnson - EL <br> Dr. Charles Downer - CHL <br> Dr. Nawa Pradhan - CHL | <br> 35.0 <br> 50.0 <br> 50.0 <br> 35.0 <br> 49.0 |
 | **BURDENS** | 7.2 |
 | **TRAVEL** | 17.4 |
 | **SUPMATRLS** | 0.0 |
@@ -238,7 +238,7 @@ It is anticipated that this project will cover FY20 to FY23: FY21 - \$300K, FY22
 
 ## 14. Communication Strategy:  
 
-The project team provide progress reports at the frequency set by the Program Manager-s Office. Internally, the project team, and collaborators, will communicate via e-mail, WebEx, and in-person meetings as needed to ensure the milestones are being successfully completed on time. If any issues develop that may impact the milestones, then the project lead will immediately information the program managers and a discussion of how to overcome the issues will be done.
+The project team provide progress reports at the frequency set by the Program Manager's Office. Internally, the project team, and collaborators, will communicate via e-mail, WebEx, and in-person meetings as needed to ensure the milestones are being successfully completed on time. If any issues develop that may impact the milestones, then the project lead will immediately information the program managers and a discussion of how to overcome the issues will be done.
 
 ## 15. Quality Management Plan:  
 
