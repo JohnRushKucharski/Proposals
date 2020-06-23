@@ -20,7 +20,7 @@ Each P2 Project shall have a Project management plan (PMP). The PMP is a living 
 | CEERD-EP-W | WQ/Vegetation module development, integration, <br> and testing | Dr. Billy E. Johnson | (601) 415-6299 | Billy.E.Johnson@usace.army.mil |
 | CEERD-EP-W | Environmental Benefits | Mr. John Kucharski | (916) 879-3155 | John.R.Kucharski@usace.army.mil |
 | CEERD-EP-W | Database development and WQ/Vegetation integration | Mr. Kervi Ramos | (530) 601-7335 | Kervi.Ramos@usace.army.mil | kervramos@me.com | New Hire - Expected start date May 2020 |
-| CEERD-EP-W | WQ/Vegetation integration and testing | Dr. Charles W. Downer | (305) 458-8443 | Charles.W.Downer@usace.army.mil |
+| CEERD-EP-W | WQ/Vegetation integration and testing | Dr. Charles W. Downer | (305)&nbsp;458&#8209;8443 | Charles.W.Downer@usace.army.mil |
 | CEERD-EP-W | WQ/Vegetation integration and testing | Dr. Nawa Pradhan | 601-634-3837 | Nawa.Pradhan@usace.army.mil |
 | CEERD-EP-W | WQ/Vegetation integration and testing | Dr. Zhonglong Zhang | (601) 421-9661 | zz3@pdx.edu |
 | CEERD-EP-W | Graphical User Interface (GUI) Development and Data Visualization | Ms. Lora Johnson | New Hire | New Hire - Expected start date May 2020 |
