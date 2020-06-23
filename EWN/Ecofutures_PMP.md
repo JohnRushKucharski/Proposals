@@ -13,8 +13,8 @@ Each P2 Project shall have a Project management plan (PMP). The PMP is a living 
 4. Complete List of PDT Members: This list should include the customer/sponsor, project manager, responsible branch chief(s), and all appropriate team members.
 
 | Organization | Role | Name | Phone | E-Mail |
-|---|---|---|---|---|
-| CEERD-EP-W | Project Manager/PI | Dr. Todd E. Steissberg | (530) 219-7990 | Todd.E.Steissberg@usace.army.mil |
+|:--|:--|:--|:--|:--|
+| CEERD&#x2011EP&#x2011W | Project Manager/PI | Dr. Todd E. Steissberg | (530) 219-7990 | Todd.E.Steissberg@usace.army.mil |
 | CEERD-EP-W | Branch Chief/PM Proxy | Mr. Mark R. Noel | (601) 634-3275 | Mark.R.Noel@usace.army.mil |
 | Team Member(s) |
 | CEERD-EP-W | WQ/Vegetation module development, integration, and testing | Dr. Billy E. Johnson | (601) 415-6299 | Billy.E.Johnson@usace.army.mil |
