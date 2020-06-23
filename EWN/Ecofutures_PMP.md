@@ -15,7 +15,7 @@ Each P2 Project shall have a Project management plan (PMP). The PMP is a living 
 | Organization&nbsp;&nbsp; | Role | Name | Phone | E-Mail |
 |:--|:--|:--|:--|:--|
 | CEERD-EP-W | Project Manager/PI | Dr. Todd E. Steissberg | (530)&nbsp;219&#8209;7990 | Todd.E.Steissberg@usace.army.mil |
-| CEERD-EP-W | Branch Chief/PM Proxy | Mr. Mark R. Noel | (601) 634-3275 | Mark.R.Noel@usace.army.mil |
+| CEERD-EP-W | Branch Chief/PM Proxy | Mr. Mark R. Noel | (601)&nbsp;634&#8209;3275 | Mark.R.Noel@usace.army.mil |
 | Team Member(s) |
 | CEERD-EP-W | WQ/Vegetation module development, integration, <br> and testing | Dr. Billy E. Johnson | (601) 415-6299 | Billy.E.Johnson@usace.army.mil |
 | CEERD-EP-W | Environmental Benefits | Mr. John Kucharski | (916) 879-3155 | John.R.Kucharski@usace.army.mil |
