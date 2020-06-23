@@ -12,12 +12,12 @@ Each P2 Project shall have a Project management plan (PMP). The PMP is a living 
 3. PMP Approver: Dr. Elizabeth Ferguson
 4. Complete List of PDT Members: This list should include the customer/sponsor, project manager, responsible branch chief(s), and all appropriate team members.
 
-| Organization | Role | Name | Phone | E-Mail |
+| Organization&nbsp;&nbsp; | Role | Name | Phone | E-Mail |
 |:--|:--|:--|:--|:--|
-| <nobr>CEERD-EP-W</nobr> | Project Manager/PI | Dr. Todd E. Steissberg | (530) 219-7990 | Todd.E.Steissberg@usace.army.mil |
+| CEERD-EP-W | Project Manager/PI | Dr. Todd E. Steissberg | (530)&nbsp;219&#8209;7990 | Todd.E.Steissberg@usace.army.mil |
 | CEERD-EP-W | Branch Chief/PM Proxy | Mr. Mark R. Noel | (601) 634-3275 | Mark.R.Noel@usace.army.mil |
 | Team Member(s) |
-| CEERD-EP-W | WQ/Vegetation module development, integration, and testing | Dr. Billy E. Johnson | (601) 415-6299 | Billy.E.Johnson@usace.army.mil |
+| CEERD-EP-W | WQ/Vegetation module development, integration, <br> and testing | Dr. Billy E. Johnson | (601) 415-6299 | Billy.E.Johnson@usace.army.mil |
 | CEERD-EP-W | Environmental Benefits | Mr. John Kucharski | (916) 879-3155 | John.R.Kucharski@usace.army.mil |
 | CEERD-EP-W | Database development and WQ/Vegetation integration | Mr. Kervi Ramos | (530) 601-7335 | Kervi.Ramos@usace.army.mil | kervramos@me.com | New Hire - Expected start date May 2020 |
 | CEERD-EP-W | WQ/Vegetation integration and testing | Dr. Charles W. Downer | (305) 458-8443 | Charles.W.Downer@usace.army.mil |
