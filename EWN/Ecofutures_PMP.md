@@ -223,7 +223,7 @@ In order to keep this project on track, the project team will coordinate with th
 ##### Original
 | Resource Item | Amount <br> ($K) |
 | :-- | --: |
-| **OTHFACSVC** <br> Burdens <br> Contracts - Dr. Zhonglong Zhang (PSU) | 16.4 <br> 40.0 |
+| **OTHFACSVC** <br> Burdens <br> Contracts - Dr. Zhonglong Zhang (PSU) | <br> 16.4 <br> 40.0 |
 | **LABOR** <br> Dr. Todd Steissberg/Dr. Billy Johnson - EL <br> Mr. Kervi Ramos - EL <br> GUI/Data Visualization - Ms. Lora Johnson - EL <br> Dr. Charles Downer - CHL <br> Dr. Nawa Pradhan - CHL | <br> 35.0 <br> 50.0 <br> 50.0 <br> 35.0 <br> 49.0 |
 | **BURDENS** | 7.2 |
 | **TRAVEL** | 17.4 |
@@ -233,7 +233,7 @@ In order to keep this project on track, the project team will coordinate with th
 ##### Revised
 | Resource Item | Amount <br> ($K) |
 | :-- | --: |
-| **OTHFACSVC** <br> Burdens <br> Contracts - Dr. Zhonglong Zhang (PSU) | 16.4 <br> 40.0 |
+| **OTHFACSVC** <br> Burdens <br> Contracts - Dr. Zhonglong Zhang (PSU) | <br> 16.4 <br> 40.0 |
 | **LABOR** <br> Dr. Todd Steissberg - EL <br> Dr. Billy Johnson - EL <br> Mr. John Kucharski - EL <br> Mr. Kervi Ramos - EL <br> GUI/Data Visualization - Ms. Lora Johnson - EL <br> Dr. Charles Downer - CHL <br> Dr. Nawa Pradhan - CHL | <br> 20.0 <br> 5.0 <br> 20.0 <br> 40.0 <br> 50.0 <br> 35.0 <br> 49.0 |
 | **BURDENS** | 7.2 |
 | **TRAVEL** | 17.4 |
