@@ -17,8 +17,8 @@ Each P2 Project shall have a Project management plan (PMP). The PMP is a living 
 | CEERD-EP-W | Project Manager/PI | Dr. Todd E. Steissberg | (530) 219-7990 | Todd.E.Steissberg@usace.army.mil |
 | CEERD-EP-W | Branch Chief/PM Proxy | Mr. Mark R. Noel | (601) 634-3275 | Mark.R.Noel@usace.army.mil |
 | Team Member(s) |
-| CEERD-EP-W | Environmental Benefits | Mr. John Kucharski | (916) 879-3155 | John.R.Kucharski@usace.army.mil |
 | CEERD-EP-W | WQ/Vegetation module development, integration, and testing | Dr. Billy E. Johnson | (601) 415-6299 | Billy.E.Johnson@usace.army.mil |
+| CEERD-EP-W | Environmental Benefits | Mr. John Kucharski | (916) 879-3155 | John.R.Kucharski@usace.army.mil |
 | CEERD-EP-W | Database development and WQ/Vegetation integration | Mr. Kervi Ramos | (530) 601-7335 | Kervi.Ramos@usace.army.mil | kervramos@me.com | New Hire - Expected start date May 2020 |
 | CEERD-EP-W | WQ/Vegetation integration and testing | Dr. Charles W. Downer | (305) 458-8443 | Charles.W.Downer@usace.army.mil |
 | CEERD-EP-W | WQ/Vegetation integration and testing | Dr. Nawa Pradhan | 601-634-3837 | Nawa.Pradhan@usace.army.mil |
@@ -220,10 +220,21 @@ In order to keep this project on track, the project team will coordinate with th
 ## 12. Resource Plan:  
 
 #### FY20
+##### Original
 | Resource Item | Amount <br> ($K) |
 | :-- | --: |
 | **OTHFACSVC** <br> Burdens <br> Contracts - Dr. Zhonglong Zhang (PSU) | 16.4 <br> 40.0 |
 | **LABOR** <br> Dr. Todd Steissberg/Dr. Billy Johnson - EL <br> Mr. Kervi Ramos - EL <br> GUI/Data Visualization - Ms. Lora Johnson - EL <br> Dr. Charles Downer - CHL <br> Dr. Nawa Pradhan - CHL | <br> 35.0 <br> 50.0 <br> 50.0 <br> 35.0 <br> 49.0 |
+| **BURDENS** | 7.2 |
+| **TRAVEL** | 17.4 |
+| **SUPMATRLS** | 0.0 |
+| **TOTAL** | 300.0 |
+
+##### Revised
+| Resource Item | Amount <br> ($K) |
+| :-- | --: |
+| **OTHFACSVC** <br> Burdens <br> Contracts - Dr. Zhonglong Zhang (PSU) | 16.4 <br> 40.0 |
+| **LABOR** <br> Dr. Todd Steissberg - EL <br> Dr. Billy Johnson - EL <br> Mr. John Kucharski - EL <br> Mr. Kervi Ramos - EL <br> GUI/Data Visualization - Ms. Lora Johnson - EL <br> Dr. Charles Downer - CHL <br> Dr. Nawa Pradhan - CHL | <br> 20.0 <br> 5.0 <br> 10.0 <br> 50.0 <br> 50.0 <br> 35.0 <br> 49.0 |
 | **BURDENS** | 7.2 |
 | **TRAVEL** | 17.4 |
 | **SUPMATRLS** | 0.0 |
