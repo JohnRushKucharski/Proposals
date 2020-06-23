@@ -14,19 +14,19 @@ Each P2 Project shall have a Project management plan (PMP). The PMP is a living 
 
 | Organization | Role | Name | Phone | E-Mail |
 |:--|:--|:--|:--|:--|
-| CEERD-<br>EP-W | Project Manager/PI | Dr.&nbsp;Todd&nbsp;E.&nbsp;Steissberg | 530&#8209;219&#8209;7990 | Todd.E.Steissberg@usace.army.mil |
-| CEERD-EP-W | Branch Chief/PM Proxy | Mr. Mark R. Noel | 601&#8209;634&#8209;3275 | Mark.R.Noel@usace.army.mil |
+| CEERD-EPW | Project Manager/PI | Dr.&nbsp;Todd&nbsp;E.&nbsp;Steissberg | 530&#8209;219&#8209;7990 | Todd.E.Steissberg@usace.army.mil |
+| CEERD-EPW | Branch Chief/PM Proxy | Mr. Mark R. Noel | 601&#8209;634&#8209;3275 | Mark.R.Noel@usace.army.mil |
 | Team Member(s) |
-| CEERD-EP-W | WQ/Vegetation module development, integration, <br> and testing | Dr. Billy E. Johnson | 601&#8209;415&#8209;6299 | Billy.E.Johnson@usace.army.mil |
-| CEERD-EP-W | Environmental Benefits | Mr. John Kucharski | 916&#8209;879&#8209;3155 | John.R.Kucharski@usace.army.mil |
-| CEERD-EP-W | Database development and WQ/Vegetation integration | Mr. Kervi Ramos | 530&#8209;601&#8209;7335 | Kervi.Ramos@usace.army.mil |
-| CEERD-EP-W | WQ/Vegetation integration and testing | Dr. Charles W. Downer | 305&#8209;458&#8209;8443 | Charles.W.Downer@usace.army.mil |
-| CEERD-EP-W | WQ/Vegetation integration and testing | Dr. Nawa Pradhan | 601&#8209;634&#8209;3837 | Nawa.Pradhan@usace.army.mil |
-| CEERD-EP-W | WQ/Vegetation integration and testing | Dr. Zhonglong Zhang | 601&#8209;421&#8209;9661 | zz3@pdx.edu |
-| CEERD-EP-W | Graphical User Interface (GUI) Development and Data Visualization | Ms. Lora Johnson | New Hire | New Hire - Expected start date July 2020 |
-| CEERD-EE-W | PM Proxy | Dr. Todd Swannack | 601&#8209;415&#8209;3509 | Todd.M.Swannack@usace.army.mil |
-| CEERD-EE-W | PM Proxy | Dr.&nbsp;Christine&nbsp;Vanzomeren | 601&#8209;634&#8209;3702 | Christine.M.Vanzomeren@usace.army.mil |
-| CEERD-EM-J | PM Proxy | Ms. Jessica Coleman  | 601&#8209;634&#8209;3976 | Jessica.G.Coleman@us.army.mil |
+| CEERD-EPW | WQ/Vegetation module development, integration, <br> and testing | Dr. Billy E. Johnson | 601&#8209;415&#8209;6299 | Billy.E.Johnson@usace.army.mil |
+| CEERD-EPW | Environmental Benefits | Mr. John Kucharski | 916&#8209;879&#8209;3155 | John.R.Kucharski@usace.army.mil |
+| CEERD-EPW | Database development and WQ/Vegetation integration | Mr. Kervi Ramos | 530&#8209;601&#8209;7335 | Kervi.Ramos@usace.army.mil |
+| CEERD-EPW | WQ/Vegetation integration and testing | Dr. Charles W. Downer | 305&#8209;458&#8209;8443 | Charles.W.Downer@usace.army.mil |
+| CEERD-EPW | WQ/Vegetation integration and testing | Dr. Nawa Pradhan | 601&#8209;634&#8209;3837 | Nawa.Pradhan@usace.army.mil |
+| CEERD-EPW | WQ/Vegetation integration and testing | Dr. Zhonglong Zhang | 601&#8209;421&#8209;9661 | zz3@pdx.edu |
+| CEERD-EPW | Graphical User Interface (GUI) Development and Data Visualization | Ms. Lora Johnson | New Hire | New Hire - Expected start date July 2020 |
+| CEERD-EEW | PM Proxy | Dr. Todd Swannack | 601&#8209;415&#8209;3509 | Todd.M.Swannack@usace.army.mil |
+| CEERD-EEW | PM Proxy | Dr.&nbsp;Christine&nbsp;Vanzomeren | 601&#8209;634&#8209;3702 | Christine.M.Vanzomeren@usace.army.mil |
+| CEERD-EMJ | PM Proxy | Ms. Jessica Coleman  | 601&#8209;634&#8209;3976 | Jessica.G.Coleman@us.army.mil |
 
 ## 5. References:  
 * **Coastal and Hydraulics Laboratory:** Dr. Charles W. Downer and Dr. Nawa Pradhan
